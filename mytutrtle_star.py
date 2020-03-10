@@ -10,7 +10,7 @@ def star(length):
         right(72 - 120)
     
 length = 5        
-for i in range(60):
+for i in range(50:
     star(length)
     right(5)
     length += 5
